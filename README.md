@@ -4,11 +4,11 @@ Using Tableau, I have created data visualizations outlining the bike sharing pro
 
 Tableau is widely used for data visualization in today’s professional world. Tableau is uniques in how it allows data visualization professionals to create visually appealing data stories that are visually appealing and easy to comprehend for a non-technical user. Moreover, Tableau provides the tool to create powerful analytic dashboards and tell a clear story.
 
-I've created a Tableau story about NYC Citi Bike by manipulating real raw data from the ![NYC Citi Bike Website](https://ride.citibikenyc.com/system-data) 
+I've created a Tableau story about NYC Citi Bike by manipulating real raw data from the [NYC Citi Bike Website](https://ride.citibikenyc.com/system-data) 
 
 To manipulate this data, I needed to use Pandas to convert the integers to a datetime datatype.
 
-My Tableau story can be viewed here: ![NYC Citi Bike Story](https://public.tableau.com/app/profile/roark.segler/viz/NYCCitiBikeStory_16528051154600/NYCCitiBikeStory?publish=yes)
+My Tableau story can be viewed here: [NYC Citi Bike Story](https://public.tableau.com/app/profile/roark.segler/viz/NYCCitiBikeStory_16528051154600/NYCCitiBikeStory?publish=yes)
 
 ## Results
 #### Basic Info
